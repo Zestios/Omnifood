@@ -192,7 +192,7 @@ input[type=submit]:active {
 /* HEADER */
 /* ----------------------------------------------- */
 header {
-	background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.699)), to(rgba(0, 0, 0, 0.699))), url(img/hero.jpg);
+	background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.699), rgba(0, 0, 0, 0.699)), url(img/hero.jpg);
 	background-image: linear-gradient(rgba(0, 0, 0, 0.699), rgba(0, 0, 0, 0.699)), url(img/hero.jpg);
 	background-size: cover;
 	background-position: center;
@@ -422,7 +422,7 @@ header {
 /* TESTIMONIALS */
 /* ----------------------------------------------- */
 .section-testimonials {
-	background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.75)), to(rgba(0, 0, 0, 0.75))), url(img/back-customers.jpg);
+	background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(img/back-customers.jpg);
 	background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(img/back-customers.jpg);
 	background-size: cover;
 	color: #fff;
