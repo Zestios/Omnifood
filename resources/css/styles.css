@@ -197,7 +197,7 @@ header {
 	background-size: cover;
 	background-position: center;
 	height: 100vh;
-	background-attachment: fixed;
+	background-attachment: scroll;
 }
 
 .hero-text-box {
@@ -422,11 +422,11 @@ header {
 /* TESTIMONIALS */
 /* ----------------------------------------------- */
 .section-testimonials {
-	background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(img/back-customers.jpg);
-	background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(img/back-customers.jpg);
+	background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.699), rgba(0, 0, 0, 0.699)), url(img/back-customer.jpg);
+	background-image: linear-gradient(rgba(0, 0, 0, 0.699), rgba(0, 0, 0, 0.699)), url(img/back-customer.jpg);
 	background-size: cover;
 	color: #fff;
-	background-attachment: fixed;
+	background-attachment: scroll;
 }
 
 blockquote {
